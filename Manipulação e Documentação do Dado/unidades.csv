@@ -1,0 +1,9 @@
+id_unidade;nome_unidade;cidade;uf_unidade;cep_unidade
+U01;Clínica Centro;São Paulo;SP;01310-100
+U02;Clínica Norte;São Paulo;SP;02460-000
+U03;Clínica Sul;Campinas;SP;13010-020
+U04;Clínica Leste;Guarulhos;SP;07011-000
+U05;Clínica Oeste;São Paulo;SP;05407-002
+U06;Clínica Jardins;São Paulo;SP;01452-000
+U07;Clínica Vila Nova;Osasco;SP;06010-010
+U08;Clínica Bela Vista;Santo André;SP;09015-000
