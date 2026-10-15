@@ -1,0 +1,50 @@
+﻿combinacao_risco;alunos;casos;proporcao_pct
+D | 31–60 min | 21–30 h;142;8;5.633802816901409
+D | 31–60 min | Até 20 h;131;15;11.450381679389313
+D | 31–60 min | Mais de 30 h;310;41;13.225806451612904
+D | 31–60 min | Sem trabalho;221;18;8.144796380090497
+D | 61–90 min | 21–30 h;140;14;10.0
+D | 61–90 min | Até 20 h;117;10;8.547008547008547
+D | 61–90 min | Mais de 30 h;296;35;11.824324324324325
+D | 61–90 min | Sem trabalho;190;20;10.526315789473683
+D | Até 30 min | 21–30 h;54;6;11.11111111111111
+D | Até 30 min | Até 20 h;50;4;8.0
+D | Até 30 min | Mais de 30 h;108;10;9.25925925925926
+D | Até 30 min | Sem trabalho;72;10;13.88888888888889
+D | Mais de 90 min | 21–30 h;48;6;12.5
+D | Mais de 90 min | Até 20 h;59;8;13.559322033898304
+D | Mais de 90 min | Mais de 30 h;98;20;20.408163265306122
+D | Mais de 90 min | Sem trabalho;73;7;9.58904109589041
+E | 31–60 min | 21–30 h;131;13;9.923664122137405
+E | 31–60 min | Até 20 h;126;13;10.317460317460316
+E | 31–60 min | Mais de 30 h;293;43;14.675767918088736
+E | 31–60 min | Sem trabalho;205;28;13.658536585365855
+E | 61–90 min | 21–30 h;145;14;9.655172413793103
+E | 61–90 min | Até 20 h;130;15;11.538461538461538
+E | 61–90 min | Mais de 30 h;254;35;13.779527559055119
+E | 61–90 min | Sem trabalho;197;24;12.18274111675127
+E | Até 30 min | 21–30 h;51;4;7.8431372549019605
+E | Até 30 min | Até 20 h;53;3;5.660377358490567
+E | Até 30 min | Mais de 30 h;90;10;11.11111111111111
+E | Até 30 min | Sem trabalho;79;10;12.658227848101266
+E | Mais de 90 min | 21–30 h;45;9;20.0
+E | Mais de 90 min | Até 20 h;52;8;15.384615384615385
+E | Mais de 90 min | Mais de 30 h;95;17;17.894736842105264
+E | Mais de 90 min | Sem trabalho;76;15;19.736842105263158
+Outras/indeterminada | 31–60 min | 21–30 h;259;15;5.7915057915057915
+Outras/indeterminada | 31–60 min | Até 20 h;245;14;5.714285714285714
+Outras/indeterminada | 31–60 min | Mais de 30 h;527;59;11.195445920303605
+Outras/indeterminada | 31–60 min | Sem trabalho;381;23;6.036745406824147
+Outras/indeterminada | 61–90 min | 21–30 h;255;13;5.098039215686274
+Outras/indeterminada | 61–90 min | Até 20 h;263;17;6.4638783269961975
+Outras/indeterminada | 61–90 min | Mais de 30 h;514;59;11.478599221789883
+Outras/indeterminada | 61–90 min | Sem trabalho;368;26;7.065217391304348
+Outras/indeterminada | Até 30 min | 21–30 h;80;7;8.75
+Outras/indeterminada | Até 30 min | Até 20 h;92;4;4.3478260869565215
+Outras/indeterminada | Até 30 min | Mais de 30 h;151;18;11.920529801324504
+Outras/indeterminada | Até 30 min | Sem trabalho;137;6;4.37956204379562
+Outras/indeterminada | Mais de 90 min | 21–30 h;92;10;10.869565217391305
+Outras/indeterminada | Mais de 90 min | Até 20 h;92;10;10.869565217391305
+Outras/indeterminada | Mais de 90 min | Mais de 30 h;198;26;13.131313131313133
+Outras/indeterminada | Mais de 90 min | Sem trabalho;130;14;10.76923076923077
+;85;10;11.76470588235294

@@ -1,0 +1,81 @@
+﻿empresa_id;empresa_nome;setor;porte;conveniada;nome_anterior
+E001;Nuváris Sistemas;Consultoria;Pequeno;Não;Projeto Nuváris 1
+E002;Nuváris Laboratório Digital;Varejo;Pequeno;Sim;Projeto Nuváris 2
+E003;Nuváris Soluções Integradas;Finanças;Médio;Não;Projeto Nuváris 3
+E004;Nuváris Serviços Analíticos;Indústria;Pequeno;Sim;Projeto Nuváris 4
+E005;Nuváris Tecnologia Aplicada;Consultoria;Pequeno;Sim;Projeto Nuváris 5
+E006;Velúmina Sistemas;Consultoria;Grande;Sim;Projeto Velumina 1
+E007;Velúmina Laboratório Digital;Tecnologia;Pequeno;Sim;Projeto Velumina 2
+E008;Velúmina Soluções Integradas;Varejo;Grande;Sim;Projeto Velumina 3
+E009;Velúmina Serviços Analíticos;Varejo;Grande;Não;Projeto Velumina 4
+E010;Velúmina Tecnologia Aplicada;Tecnologia;Médio;Não;Projeto Velumina 5
+E011;Quentara Sistemas;Indústria;Grande;Sim;Projeto Quentara 1
+E012;Quentara Laboratório Digital;Consultoria;Grande;Sim;Projeto Quentara 2
+E013;Quentara Soluções Integradas;Consultoria;Grande;Sim;Projeto Quentara 3
+E014;Quentara Serviços Analíticos;Finanças;Pequeno;Não;Projeto Quentara 4
+E015;Quentara Tecnologia Aplicada;Varejo;Pequeno;Sim;Projeto Quentara 5
+E016;Aurivexa Sistemas;Indústria;Médio;Sim;Projeto Aurivexa 1
+E017;Aurivexa Laboratório Digital;Indústria;Grande;Sim;Projeto Aurivexa 2
+E018;Aurivexa Soluções Integradas;Indústria;Médio;Não;Projeto Aurivexa 3
+E019;Aurivexa Serviços Analíticos;Consultoria;Pequeno;Sim;Projeto Aurivexa 4
+E020;Aurivexa Tecnologia Aplicada;Tecnologia;Médio;Sim;Projeto Aurivexa 5
+E021;Lumétris Sistemas;Consultoria;Pequeno;Sim;Projeto Lumetris 1
+E022;Lumétris Laboratório Digital;Finanças;Médio;Sim;Projeto Lumetris 2
+E023;Lumétris Soluções Integradas;Consultoria;Grande;Sim;Projeto Lumetris 3
+E024;Lumétris Serviços Analíticos;Indústria;Grande;Sim;Projeto Lumetris 4
+E025;Lumétris Tecnologia Aplicada;Consultoria;Grande;Sim;Projeto Lumetris 5
+E026;Zeforvia Sistemas;Varejo;Médio;Sim;Projeto Zeforvia 1
+E027;Zeforvia Laboratório Digital;Tecnologia;Grande;Sim;Projeto Zeforvia 2
+E028;Zeforvia Soluções Integradas;Consultoria;Médio;Sim;Projeto Zeforvia 3
+E029;Zeforvia Serviços Analíticos;Consultoria;Pequeno;Não;Projeto Zeforvia 4
+E030;Zeforvia Tecnologia Aplicada;Indústria;Médio;Sim;Projeto Zeforvia 5
+E031;Trivélia Sistemas;Consultoria;Médio;Sim;Projeto Trivelia 1
+E032;Trivélia Laboratório Digital;Tecnologia;Médio;Sim;Projeto Trivelia 2
+E033;Trivélia Soluções Integradas;Tecnologia;Médio;Sim;Projeto Trivelia 3
+E034;Trivélia Serviços Analíticos;Finanças;Médio;Sim;Projeto Trivelia 4
+E035;Trivélia Tecnologia Aplicada;Indústria;Grande;Sim;Projeto Trivelia 5
+E036;Orbisque Sistemas;Indústria;Médio;Sim;Projeto Orbisque 1
+E037;Orbisque Laboratório Digital;Finanças;Grande;Sim;Projeto Orbisque 2
+E038;Orbisque Soluções Integradas;Varejo;Grande;Sim;Projeto Orbisque 3
+E039;Orbisque Serviços Analíticos;Tecnologia;Grande;Sim;Projeto Orbisque 4
+E040;Orbisque Tecnologia Aplicada;Indústria;Médio;Sim;Projeto Orbisque 5
+E041;Prismélia Sistemas;Varejo;Grande;Sim;Projeto Prismelia 1
+E042;Prismélia Laboratório Digital;Tecnologia;Pequeno;Não;Projeto Prismelia 2
+E043;Prismélia Soluções Integradas;Consultoria;Médio;Não;Projeto Prismelia 3
+E044;Prismélia Serviços Analíticos;Finanças;Pequeno;Sim;Projeto Prismelia 4
+E045;Prismélia Tecnologia Aplicada;Indústria;Pequeno;Não;Projeto Prismelia 5
+E046;Novéris Sistemas;Varejo;Médio;Não;Projeto Noveris 1
+E047;Novéris Laboratório Digital;Varejo;Médio;Não;Projeto Noveris 2
+E048;Novéris Soluções Integradas;Finanças;Grande;Sim;Projeto Noveris 3
+E049;Novéris Serviços Analíticos;Varejo;Grande;Sim;Projeto Noveris 4
+E050;Novéris Tecnologia Aplicada;Tecnologia;Grande;Sim;Projeto Noveris 5
+E051;Cendúria Sistemas;Consultoria;Médio;Não;Projeto Cenduria 1
+E052;Cendúria Laboratório Digital;Consultoria;Médio;Não;Projeto Cenduria 2
+E053;Cendúria Soluções Integradas;Varejo;Médio;Sim;Projeto Cenduria 3
+E054;Cendúria Serviços Analíticos;Varejo;Médio;Sim;Projeto Cenduria 4
+E055;Cendúria Tecnologia Aplicada;Consultoria;Médio;Não;Projeto Cenduria 5
+E056;Valtrixa Sistemas;Varejo;Grande;Não;Projeto Valtrixa 1
+E057;Valtrixa Laboratório Digital;Consultoria;Pequeno;Não;Projeto Valtrixa 2
+E058;Valtrixa Soluções Integradas;Finanças;Pequeno;Não;Projeto Valtrixa 3
+E059;Valtrixa Serviços Analíticos;Finanças;Grande;Sim;Projeto Valtrixa 4
+E060;Valtrixa Tecnologia Aplicada;Finanças;Médio;Sim;Projeto Valtrixa 5
+E061;Evolúria Sistemas;Consultoria;Pequeno;Não;Projeto Evoluria 1
+E062;Evolúria Laboratório Digital;Varejo;Médio;Sim;Projeto Evoluria 2
+E063;Evolúria Soluções Integradas;Tecnologia;Médio;Sim;Projeto Evoluria 3
+E064;Evolúria Serviços Analíticos;Tecnologia;Médio;Sim;Projeto Evoluria 4
+E065;Evolúria Tecnologia Aplicada;Finanças;Grande;Não;Projeto Evoluria 5
+E066;Sinérvia Sistemas;Indústria;Grande;Não;Projeto Sinervia 1
+E067;Sinérvia Laboratório Digital;Indústria;Médio;Não;Projeto Sinervia 2
+E068;Sinérvia Soluções Integradas;Indústria;Médio;Não;Projeto Sinervia 3
+E069;Sinérvia Serviços Analíticos;Consultoria;Médio;Sim;Projeto Sinervia 4
+E070;Sinérvia Tecnologia Aplicada;Varejo;Pequeno;Sim;Projeto Sinervia 5
+E071;Tessúria Sistemas;Varejo;Grande;Sim;Projeto Tessuria 1
+E072;Tessúria Laboratório Digital;Varejo;Pequeno;Não;Projeto Tessuria 2
+E073;Tessúria Soluções Integradas;Consultoria;Pequeno;Não;Projeto Tessuria 3
+E074;Tessúria Serviços Analíticos;Varejo;Pequeno;Não;Projeto Tessuria 4
+E075;Tessúria Tecnologia Aplicada;Finanças;Médio;Sim;Projeto Tessuria 5
+E076;Miravexa Sistemas;Finanças;Médio;Sim;Projeto Miravexa 1
+E077;Miravexa Laboratório Digital;Tecnologia;Grande;Não;Projeto Miravexa 2
+E078;Miravexa Soluções Integradas;Finanças;Grande;Sim;Projeto Miravexa 3
+E079;Miravexa Serviços Analíticos;Indústria;Pequeno;Não;Projeto Miravexa 4
+E080;Miravexa Tecnologia Aplicada;Varejo;Médio;Não;Projeto Miravexa 5
